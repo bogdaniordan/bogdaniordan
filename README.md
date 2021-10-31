@@ -1,7 +1,11 @@
 <h1 align="center">Hi 👋, I'm Bogdan</h1>
 <h3 align="center">Passion for software development</h3>
 
-- 📫 How to reach me **bogdan.iordan47@gmail.com**
+<h3>How to reach me:</h3>
+
+<a href="https://www.linkedin.com/in/bogdan-iordan/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="mailto:bogdan.iordan47@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<hr>
 
 
 <h3 align="left">Languages and Tools:</h3>
