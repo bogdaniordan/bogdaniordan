@@ -51,7 +51,7 @@
    Currently learning:
    
    <img src="https://img.shields.io/badge/Typescript%20-%23F7DF1E.svg?&style=for-the-badge&color=FF6600" />&nbsp;&nbsp;
-   <img src="https://img.shields.io/badge/Docker flow%20-%23F7DF1E.svg?&style=for-the-badge&color=000" />&nbsp;&nbsp;
+   <img src="https://img.shields.io/badge/Docker%20-%23F7DF1E.svg?&style=for-the-badge&color=000" />&nbsp;&nbsp;
 </p> 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bogdaniordan&show_icons=true&locale=en" alt="bogdaniordan" /></p>
